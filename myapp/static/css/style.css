@@ -1,0 +1,180 @@
+{% load static %}
+h1{
+	color:#be5683;
+font-family: 'Sacramento', cursive;
+    font-size: 60px;
+	margin-bottom: 0px;
+	margin-top: 0;
+    
+}
+
+h2{
+	font-size: 40px;
+	color: #1b262c;
+	font-family: 'Sriracha', cursive;
+	
+}
+h3{
+	padding-top:0;
+	font-size: 30px;
+}
+p{
+	width: 30%;
+	margin:auto;
+	line-height: 2;
+	font-size:25px;
+}
+body{
+
+	text-align: center;
+    font-style: italic;
+	margin:0;
+
+}
+.top{
+	padding-top: 170px;
+	background-color: #cffffe;
+
+	
+    width: 100%;
+    height: 100%;
+    /*
+    height: 200px;
+    padding: 10px;
+    border: solid 10px;*/
+    position: relative;
+
+}
+.middle{
+	 
+	background-color: #f9f7d9;
+      
+	
+	padding:80px 0 80px 0;
+}
+.bottom{
+	margin-top: 0;
+	
+	background-color: #cffffe;
+    padding: 50px 0 20px;
+
+
+}
+.topcloud{
+	position:absolute; ;
+	right: 400px;
+     top:100px;
+	width: 160px;
+	height: 160px;
+
+}
+
+    
+#botcloud{
+width: 160px;
+	height: 160px;
+	display: inline-block;
+	position:absolute; ;
+	left:40px;
+	bottom:300px;
+
+}
+
+#image1{
+	height: 475px;
+	display: ;
+    /*margin-left: 1000px;*/
+    position: relative;
+    left: 80px;
+    
+}
+#image2{
+	height: 450px;
+	display: ;
+    /*margin-left: 1000px;*/
+    position: ;
+    right: 300px;
+   
+ }
+ .mcloud{
+        position:absolute;
+	left: 280px;
+    top:100px;
+	width: 160px;
+	height: 160px;
+
+ }
+ .skill-row{
+ 	margin:80px auto 70px auto;
+ 	text-align: left;
+ 	width: 50%;
+ 	line-height: 2;
+ }
+ .code-img{
+ 	width: 25%;
+ 	float: left;
+ 	margin-right: 30px;
+ }
+ 
+ .myButton {
+	box-shadow: 0px 10px 14px -7px #9fb4f2;
+	background-color:#7892c2;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+a{
+	font-size: 20px;
+       color: #ffa36c;
+       font-family:'Sriracha', cursive;
+       margin:0px 10px 20px ;
+       text-decoration: none;
+}
+a:hover{
+ color:#89c9b8;
+}
+#image3{
+	height: 550px;
+	display: ;
+    /*margin-left: 1000px;*/
+    position: relative;
+    left: 10px;
+   
+}
+.icon1{
+	width: 50px;
+	height: 50px;
+	padding-right: 6px;
+	position: absolute;
+	left:680px;
+}
+.icon2{
+	width: 50px;
+	height: 50px;
+	padding-right: 6px;
+	position: absolute;
+	left:750px;
+}
+.icon3{
+	width: 50px;
+	height: 50px;
+	padding-right: 6px;
+	position: absolute;
+	left:820px;
+}
+
+
